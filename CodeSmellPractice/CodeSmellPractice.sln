@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureEnvy", "CodeSmellPractice\FeatureEnvy.csproj", "{42D80BCA-391B-4089-BEA7-A2785083B834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureEnvyTests", "FeatureEnvyTests\FeatureEnvyTests.csproj", "{6CDC7820-E4DD-4D66-88D5-1CBD3EB3810A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D80BCA-391B-4089-BEA7-A2785083B834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D80BCA-391B-4089-BEA7-A2785083B834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D80BCA-391B-4089-BEA7-A2785083B834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D80BCA-391B-4089-BEA7-A2785083B834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDC7820-E4DD-4D66-88D5-1CBD3EB3810A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDC7820-E4DD-4D66-88D5-1CBD3EB3810A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDC7820-E4DD-4D66-88D5-1CBD3EB3810A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDC7820-E4DD-4D66-88D5-1CBD3EB3810A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690BEA80-DE01-47FB-9926-0B13EB22A785}
+	EndGlobalSection
+EndGlobal
